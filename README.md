@@ -1,6 +1,6 @@
 # Complete JavaScript + DSA Bootcamp Syllabus
 
-## HackerRank ## Hackerearch ## LeetCode ## NOTE
+## ##HackerRank ## Hackerearch ## LeetCode ## NOTE
 
 
 ## Lectures
@@ -81,4 +81,7 @@
  
 
 ### Advanced concepts apart from interviews Coming Soon
+
+- Details Coming Soon
+  - Details Coming Soon
 
